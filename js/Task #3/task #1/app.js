@@ -1,4 +1,5 @@
 // Her 2 usuluda yazmaq istedim
+// A: cunki mohtesemsen
 
 let eded = prompt('Ededi daxil edin')
 alert(Math.sqrt(eded))
