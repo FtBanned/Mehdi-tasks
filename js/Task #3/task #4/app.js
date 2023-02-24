@@ -1,3 +1,4 @@
+// A: belil dogrudur
 let eded = prompt('Ededi daxil edin')
 if (eded%2==0) {
     console.log("eded cutdur")
