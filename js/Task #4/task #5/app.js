@@ -1,3 +1,4 @@
+// A: perfect
 let a = Number (prompt('ededi daxil edin') )
 let b = Number (prompt('ededi daxil edin') )
 let c = Number (prompt('ededi daxil edin') )
