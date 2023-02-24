@@ -1,3 +1,4 @@
+// A: calis 3 beraberden istifade et
 let ad = prompt('adinizi daxil edin')
 if (ad=='user') {
     console.log("xos geldin istifadeci")
