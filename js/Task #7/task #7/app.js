@@ -1,5 +1,5 @@
 var today = new Date();
-var HefteninGunleri = ['Bazarertesi', 'Cərşənbəaxşamı', 'Cersenbe', 'Cüməaxşamı', 'Cume','Senbe','Bazar'];
+var HefteninGunleri = ['Bazar','Bazar ertəsi','Cərşənbə axşamı', 'Cersenbe', 'Cumeaxsami','Cume','Senbe']
 var HefteninGunleri = HefteninGunleri[today.getDay()]
 
 document.write("Bugun " + HefteninGunleri + "dir.")
