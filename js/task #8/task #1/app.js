@@ -1,3 +1,4 @@
+// A: ela 
 const circle1 = document.getElementById('circle1')
 const circle2 = document.getElementById('circle2')
 const circle3 = document.getElementById('circle3')
