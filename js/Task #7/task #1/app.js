@@ -1,3 +1,4 @@
+// A: mehdi tasklari duz yazir
 function cumleniAyir(cumle) {
 return cumle.split(' ')
  }
