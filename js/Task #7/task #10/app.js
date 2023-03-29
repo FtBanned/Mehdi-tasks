@@ -1,3 +1,4 @@
+// A: ay masallah!
 var birthDate = new Date(prompt ("Dogum ilinizi daxil edin"))
 var now = new Date()
 var age = now.getFullYear() - birthDate.getFullYear();
