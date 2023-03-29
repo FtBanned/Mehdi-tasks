@@ -1,4 +1,5 @@
 //propertyTaker adinda funksiya yaradin. Argument kimi obyekt (obj) ve string (proprtyName) alsin. Hemin obyektin verdiyim propertyni cixarsin.
+// A: ehsen
 function propertyTaker(obj, propertyName) {
     console.log( obj[propertyName])
   }
