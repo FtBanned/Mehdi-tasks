@@ -1,3 +1,4 @@
+// A: regex yolundan elave yox ile et
 function validateGmailAddress(email) {
     let mail = /^[a-zA-Z0-9]{5,}@(gmail\.com)$/i;
     return mail.test(email);
