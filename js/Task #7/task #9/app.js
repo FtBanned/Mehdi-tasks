@@ -1,3 +1,4 @@
+// A: ela
 let yas = prompt('Nece yasin var')
 const date = new Date(77)
 let netice = date-yas
