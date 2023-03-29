@@ -1,4 +1,5 @@
 // Sonu 0 ilə bitən bütün üçrəqəmli ədədləri konsola çıxaran proqram yazın. (for ile yazin)
+// A: ela
 for(let i = 100; i<= 999; i++) {
 
     if ( i%10 === 0) {
