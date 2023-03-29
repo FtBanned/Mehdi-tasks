@@ -1,3 +1,4 @@
+// A: daha yaxsi yaza bilersen. geriye, ele obj[proprtyName]-i qaytarsin. 
 function existsAndTruthy(obj,propertyName) {
     if (obj[propertyName]) {
         return true
