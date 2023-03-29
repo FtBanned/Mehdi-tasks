@@ -1,3 +1,4 @@
+// A: daha optimal ola biler.
 function MektebGunleri() {
     const days = ['Bazar ertəsi', 'Cərşənbə axşamı', 'Cersenbe', 'Cümə axşamı', 'Cume','Senbe','Bazar']
     const today = new Date().getDay()
