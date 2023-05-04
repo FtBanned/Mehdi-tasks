@@ -1,0 +1,14 @@
+.container2{
+    height: 200px;
+    width: 600px;
+    border: 3px solid rgb(170, 77, 0);
+    background-color: green;
+    left: 350px;
+    position: absolute;
+    top: 100px;
+}
+.about{
+    position: absolute;
+    left: 480px;
+    top: 300px;
+}
