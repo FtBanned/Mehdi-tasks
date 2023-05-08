@@ -5,9 +5,9 @@ const Navbar = () => {
   return (
     <nav className='nav'>
       <div>
-    <a href="/">Data</a>
-    <a href="/followers">Followers</a>
-    <a href="/repos">Repos</a>
+    <a className='x' href="/">Data</a>
+    <a className='z' href="/followers">Followers</a>
+    <a className='y' href="/repos">Repos</a>
       </div>
   </nav>
     
