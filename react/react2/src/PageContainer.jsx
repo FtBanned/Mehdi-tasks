@@ -1,5 +1,4 @@
 import React from 'react'
-import Footer from './Footer'
 import Navbar from './Navbar'
 
 const PageContainer = (props) => {
@@ -7,7 +6,6 @@ const PageContainer = (props) => {
     <>
     <Navbar/>
     <main>{props.children}</main>
-    <Footer/>
     </>
    
   )
