@@ -21,7 +21,7 @@ return (
       <h1 className='username'>{users.name}</h1>
       <a className='fol' href='/followers' >Followers: {users.followers}</a>
       <p>Following: {users.following}</p>
-      <a className='repos' href='/repos'>Repos: {users.public_repos}</a>
+      <a className='repos1' href='/repos'>Repos: {users.public_repos}</a>
       <p>Location: {users.location}</p>
       <p>Bio: {users.bio}</p>
     </div>
