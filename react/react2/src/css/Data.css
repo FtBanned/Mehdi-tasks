@@ -12,7 +12,8 @@
 .repos{
     color: black;
     text-decoration: none;
-    
+    position: absolute;
+    top: 210px;
 }
 .ali{
     position: absolute;
