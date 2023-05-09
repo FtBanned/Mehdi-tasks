@@ -1,11 +1,15 @@
 .footer{
-   width: 1358px;
-   background-color: darkcyan;
-   color: white;
-   
+  width: 1366px;
+  background-color: darkcyan;
+  color: white;
+  position: absolute;
+  bottom: 0px;
+  border-top: none;
+  display: flex;
+  font-size: 16px;
+  left: 0;
 }
 span{
    position: absolute;
    right: 679px;
-    
 }
