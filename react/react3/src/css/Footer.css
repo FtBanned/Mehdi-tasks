@@ -1,11 +1,11 @@
 .footer{
-    position: absolute;
-    bottom: 0px;
-    border-top: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    right: 550px;
-    font-size: 16px;
+   width: 1358px;
+   background-color: darkcyan;
+   color: white;
+   
+}
+span{
+   position: absolute;
+   right: 679px;
     
 }

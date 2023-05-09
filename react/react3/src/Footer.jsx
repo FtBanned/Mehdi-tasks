@@ -1,9 +1,13 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import "./css/Footer.css"
+import { AuthContext } from './ContextApi/AuthContext'
+
+
 const Footer = () => {
-  return (
+  const {username,email} = useContext(AuthContext)
+    return (
     <footer className='footer'>
-        <h1>2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐</h1>
+    <p className='context'><span>{username}</span>{email}</p>
     </footer>
   )
 }
