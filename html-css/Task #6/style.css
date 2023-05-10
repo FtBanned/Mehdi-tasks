@@ -1,0 +1,107 @@
+.navbar{
+    width: 1366px;
+    height: 100px;
+    background-color: darkgray;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: white;
+}
+h1{
+    position: absolute;
+    left: 10px;
+}
+.container1{
+height: 50px;
+width: 300px;
+background-color: rgb(44, 151, 184);
+position: absolute;
+top: 150px;
+left: 5px;
+color: white;
+}
+.p1{
+    position: absolute;
+    top: 0px;
+    left: 5px;
+}
+.container2{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(44, 151, 184);
+    position: absolute;
+    top: 205px;
+    left: 5px;
+    color: white;
+    }
+.p2{
+    position: absolute;
+    top: 0px;
+    left: 5px;
+}
+.container3{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(44, 151, 184);
+    position: absolute;
+    top: 260px;
+    left: 5px;
+    color: white;
+    }
+.p3{
+    position: absolute;
+    top: 0px;
+    left: 5px;
+}
+.container4{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(44, 151, 184);
+    position: absolute;
+    top: 315px;
+    left: 5px;
+    color: white;
+    }
+.p4{
+    position: absolute;
+    top: 0px;
+    left: 5px;
+}
+h2{
+    position: absolute;
+    top: 140px;
+    left: 350px;
+}
+.text{
+    position: absolute;
+    top:190px;
+    left: 350px;
+    font-size: 18px;
+}
+.text1{
+    position: absolute;
+    top:260px;
+    left: 350px;
+    font-size: 18px;
+}
+.text2{
+    position: absolute;
+    top:330px;
+    left: 350px;
+    font-size: 18px;
+}
+.footer{
+    width: 1366px;
+    height: 70px;
+    background-color: darkgray;
+    position: absolute;
+    left: 0px;
+    color: white;
+    top: 555px;
+}
+.footertxt{
+    position: absolute;
+    top: 5px;
+    font-size: 17px;
+    left: 5px;
+}
