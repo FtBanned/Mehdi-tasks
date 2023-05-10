@@ -1,0 +1,47 @@
+div{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+    color: springgreen;
+}
+img{
+    height: 500px;
+    width: 1341px;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+}
+.p2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.p3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+button{
+    position: absolute;
+    right: 645px;
+    height: 40px;
+    color: white;
+    background-color: limegreen;
+    font-size: 10px;
+    border: none;
+    width: 110px;
+    cursor: pointer;
+    top: 820px;
+}
+.p4{
+    position: absolute;
+    right: 50px;
+    top: 920px;
+}
