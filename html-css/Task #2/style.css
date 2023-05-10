@@ -1,0 +1,20 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+}
+
+p {
+    background-color: burlywood;
+    text-align: left;
+    width: 200px;
+    height: 235px;
+}
+
+div {
+    background-color: #006666;
+    width: 200px;
+    height: 230px;
+    justify-content: center;
+    text-align: center;
+
+}
